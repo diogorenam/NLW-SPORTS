@@ -23,10 +23,16 @@ header div{
     max-width:120px;
     margin:auto;
     background-image: linear-gradient(90deg, #9572FC 0%, #43E7AD 50.52%, #E2D45C 100%);
-
     border-radius:50%;
     display: flex;
     padding: 4px;
+}
+header h3{
+    text-align: center;
+    color: white;
+    font-weight: 900;
+    font-family: 'Inter', sans-serif;
+    margin-top: 10px;
 }
 
 ul{
@@ -61,15 +67,14 @@ section div{
    
 }
 .section-filmes img{
-    width: 100px;
+    width: 110px;
     height: 130px;
     border-radius: 4px;
 }
 .section-canais img{
     border-radius: 50%;
     border: 1px solid #443E54;
-    width:90px;
-    height: 80px;
+    width:85px;
 }
 ul{
     display:flex;
