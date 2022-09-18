@@ -18,7 +18,7 @@ header{
 header img{
     width: 100%;
     border-radius:50%;
-   
+    cursor: pointer;
 }
 header div{
     max-width:120px;
@@ -80,6 +80,7 @@ section div{
     transition: transform .3s;
 }
 .section-filmes img:hover,
+.section-social i:hover,
 .section-canais img:hover{
     transform: scale(1.2);
 }

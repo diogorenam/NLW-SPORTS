@@ -1,7 +1,7 @@
 # NLW-SPORTS
 > Trilha explorer
 
-![preview](./github/projetoimg.png)
+![preview](./github/imagemNlw.png)
 
 > Evento feito pela Rockseat com desenvolvimento de uma aplicação web
 
